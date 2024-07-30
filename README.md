@@ -1,7 +1,8 @@
 # Project Name: 
 Restaurant Recommendation system based on user preferences by using content-based filtering approach.
 
-# Objective: Create a restaurant recommendation system based on user preferences.
+# Objective:
+Create a restaurant recommendation system based on user preferences.
 
 # Steps:
 
